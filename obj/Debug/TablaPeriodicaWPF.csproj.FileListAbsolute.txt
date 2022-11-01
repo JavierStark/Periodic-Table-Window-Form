@@ -1,0 +1,13 @@
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TableForm.resources
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InfoForm.resources
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\TablaPeriodicaWPF.csproj.GenerateResource.cache
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\TablaPeriodicaWPF.csproj.CoreCompileInputs.cache
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\TablaPeriodicaWPF.csproj.CopyComplete
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

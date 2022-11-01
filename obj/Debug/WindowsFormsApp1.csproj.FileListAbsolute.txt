@@ -1,0 +1,14 @@
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+G:\Programacion\AppWPF\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\Programacion\AppWPF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
